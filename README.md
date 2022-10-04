@@ -31,3 +31,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için,lütfen önce neyi d
 
 [MIT]()
 
+## Link
+
+[Patika](www.patika.dev)
+
