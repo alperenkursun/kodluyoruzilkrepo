@@ -33,5 +33,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için,lütfen önce neyi d
 
 ## Link
 
-[Patika](www.patika.dev)
+[Patika](https://app.patika.dev/alpk)
 
